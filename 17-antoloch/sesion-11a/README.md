@@ -74,6 +74,8 @@ Clase
 - **LM358**: doble op-amp, funciona con alimentación simple (0–VCC).  
 - **LM324**: cuádruple op-amp, también apto para alimentación simple.
 
+La pizarra mounstrosa de misaa:
 
+![misaaapuntes](./imagenes/misaaapuntes.png). 
 
 Cap 4 y 5
