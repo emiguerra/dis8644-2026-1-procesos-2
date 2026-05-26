@@ -6,7 +6,6 @@
 
 En esta clase vimos diferentes dudas, entre todos nos ayudamos y se resulvieron muchas que yo también tenía:) a si que esta clase fue de mucha ayuda!!!!!!!!!
 
----
 
 ##  Conceptos de PCBs
 - Las PCBs se conectan de diferentes maneras a la electricidad.  
@@ -61,7 +60,6 @@ En esta clase vimos diferentes dudas, entre todos nos ayudamos y se resulvieron 
 
 - Cambiar de cara componentes: seleccionar → tecla **F**.  
 
----
 
 ## 3D
 - Seleccionar huella en `.pcb` → tecla **E** → menú **3D Models** → cargar modelos descargados.  
