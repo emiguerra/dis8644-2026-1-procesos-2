@@ -51,6 +51,7 @@ este chip es de tipo "quad operational amplifier", que tiene 4 amplificadores op
 cada sección del LM324 es un amplificador operacional, el chip compara constantemente sus dos entradas para decidir el estado de su salida.
 
 entrada (+): no inversora
+
 entrada (-): inversora
 
 | comparación del voltaje | OUTPUT | 
