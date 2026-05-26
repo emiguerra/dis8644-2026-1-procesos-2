@@ -34,7 +34,9 @@ En esta clase vimos diferentes dudas, entre todos nos ayudamos y se resulvieron 
 - **Tipos**:  
   - NO (Normally Open / Abierto).  
   - NC (Normally Closed / Conectado).
-   ![nonc](./imagenes/nonc.png).
+
+ ![nonc](./imagenes/nonc.png)
+ 
 - **Interruptores**:  
   - SPST → 2 patitas  
   - SPDT → 3 patitas  
