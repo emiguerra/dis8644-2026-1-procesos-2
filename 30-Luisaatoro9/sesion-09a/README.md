@@ -84,7 +84,6 @@ El LM386 es un amplificador de audio de bajo consumo, toma una señal de audio p
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9762a5e4-337b-4385-9c49-120055b451cb" />
 </p>
 
----
 
 ### Lo que me llevo
 
@@ -100,11 +99,9 @@ La lectura es súper densa, pero lo que saqué en limpio es que Flusser separa l
 
 Me quedó dando vueltas eso del aparato. Según el autor, el que saca la foto no es tan libre como cree, sino que es un "funcionario" que solo elige opciones que ya están programadas en la cámara. O sea, la cámara ya tiene un límite de lo que puede hacer y tú solo juegas dentro de esas reglas.
 
-Mi reflexión: Sinceramente, me hace mucho sentido con lo que vemos en informática. A veces uno siente que está creando algo de cero, pero en verdad estás usando herramientas que ya tienen sus propias reglas y límites. Si no entiendes cómo funciona el "aparato" por dentro (ya sea una cámara o un software de diseño), al final terminas haciendo lo que el programa quiere y no lo que tú quieres.
+Mi reflexión: Sinceramente, me hace mucho sentido. A veces uno siente que está creando algo de cero, pero en verdad estás usando herramientas que ya tienen sus propias reglas y límites. Si no entiendes cómo funciona el "aparato" por dentro (ya sea una cámara o un software de diseño), al final terminas haciendo lo que el programa quiere y no lo que tú quieres.
 
-Para mí, el punto crítico es que nos estamos acostumbrando a que las imágenes nos digan qué pensar. Flusser dice que las imágenes deberían ayudarnos a entender el mundo, pero a veces pasa al revés: el mundo se empieza a parecer a las imágenes. Me parece una advertencia súper actual para no ser solo "apretadores de botones" y tratar de entender qué hay detrás de la tecnología que usamos a diario.
-
----
+Para mí, el punto crítico es que nos estamos acostumbrando a que las imágenes nos digan qué pensar. Flusser dice que las imágenes deberían ayudarnos a entender el mundo, pero a veces pasa al revés, el mundo se empieza a parecer a las imágenes. Me parece una advertencia súper actual para no ser solo "apretadores de botones" y tratar de entender qué hay detrás de la tecnología que usamos a diario.
 
 ### Referencias
 
