@@ -24,3 +24,16 @@ También nos dieron una lista de huellas estándar!! la pueden encontrar dentro 
 /estandares.md`` o haciendo click en el siguiente link: <https://github.com/nicolasvaldesgreve/dis8644-2026-1-procesos-2/blob/main/00-proyecto-02/estandares.md>. De igual manera, aquí dejo un screenshot de la tabla:
 
 ![Huellas para todos!! aporte de Misa](./imagenes/huellas.png)
+
+---
+
+## Capítulo 8 y 9 - Hacia una filosofía de la fotografía, Flusser
+
+En el inicio del capítulo 8 dice "Este cambio constante es precisamente lo que se nos ha hecho habitual: una fotografía redundante remplaza otra fotografía redundante. El cambio mismo es el que se ha hecho habitual y redundante; y es el "progreso" mismo el que se ha vuelto desinformativo y ordinario", ¿esto se refiere a los contenidos que consumimos actualmente en redes sociales? probablemente entendí todo mal, pero por alguna razón mi cerebro al leer esta parte me tiró un mensaje diciendo "jaja como el contenido de reels" lo cual me causó un poco de gracia.
+
+#### Vocabulario
+
++ Democriteano: Hace referencia a los principios establecidos por Demócrito, centrándose en el atomismo materialista.
+
+Fuentes:
+<https://www.filosofia.org/enc/fer/materia2.htm>
