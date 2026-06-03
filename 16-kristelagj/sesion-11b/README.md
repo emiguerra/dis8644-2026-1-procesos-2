@@ -65,7 +65,7 @@ Esto me hizo acercarme a ellos y decirle lo que sentía, necesitaba reflexionar 
 
 A veces hay que pensar que no entenderás todo lo que lees, quizás leas un libro de 1000 paginas y solo entendiste la página 500, pero eureka, ahora sabes más que ayer, pero menos que mañana. 
 
-Entre más sé que sé, más sé que no sé
+*Entre más sé que sé, más sé que no sé*
 
 - Leer mucho no necesariamente entendiendo todo.
 - Que las preguntas te movilicen.
