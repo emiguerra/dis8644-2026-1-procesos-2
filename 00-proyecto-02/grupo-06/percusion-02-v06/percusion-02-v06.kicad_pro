@@ -50,23 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "border_display_style": 2,
-          "border_hatch_pitch": 0.5,
-          "corner_radius": 0.0,
-          "corner_smoothing": 0,
-          "fill_mode": 0,
-          "hatch_gap": 1.5,
-          "hatch_orientation": 0.0,
-          "hatch_smoothing_level": 0,
-          "hatch_smoothing_value": 0.1,
-          "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
-          "min_island_area": 10.0,
-          "min_thickness": 0.25,
-          "pad_connection": 1,
-          "remove_islands": 0,
-          "thermal_relief_gap": 0.5,
-          "thermal_relief_spoke_width": 0.5
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -503,7 +487,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "oscilador-01-v02.kicad_pro",
+    "filename": "percusion-02-v05.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -658,18 +642,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Oscilador-01-v02.kicad_sch",
-        "name": "Oscilador-01-v02",
-        "uuid": "fd9752aa-e979-4a2b-8653-2938219387ed"
+        "filename": "percusion-02-v05.kicad_sch",
+        "name": "percusion-02-v05",
+        "uuid": "b50d4d9c-abcf-44ec-9e20-f6a55e0d2037"
       }
     ],
-    "used_designators": "#PWR7,#PWR17,#PWR20-21",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
-      "fd9752aa-e979-4a2b-8653-2938219387ed",
-      "Oscilador-01-v02"
+      "b50d4d9c-abcf-44ec-9e20-f6a55e0d2037",
+      "percusion-02-v05"
     ]
   ],
   "text_variables": {},

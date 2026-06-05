@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Oscilador-02-v01.kicad_pro",
+    "filename": "Oscilador-01-v01.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -643,17 +643,17 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Oscilador-02-v01.kicad_sch",
+        "filename": "Oscilador-01-v01.kicad_sch",
         "name": "Raíz",
-        "uuid": "69bf5b7e-d26d-4684-a40f-551a57133b2f"
+        "uuid": "fd9752aa-e979-4a2b-8653-2938219387ed"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR6,#PWR18-19,#PWR22-23,U9-10,J5,C7",
     "variants": []
   },
   "sheets": [
     [
-      "69bf5b7e-d26d-4684-a40f-551a57133b2f",
+      "fd9752aa-e979-4a2b-8653-2938219387ed",
       "Raíz"
     ]
   ],

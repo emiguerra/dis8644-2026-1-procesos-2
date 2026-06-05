@@ -69,7 +69,13 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -203,7 +209,11 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.4,
+        0.8
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -230,7 +240,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -488,7 +503,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Oscilador-01-v01.kicad_pro",
+    "filename": "oscilador-01-v03.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -643,12 +658,12 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Oscilador-01-v01.kicad_sch",
+        "filename": "oscilador-01-v03.kicad_sch",
         "name": "Raíz",
         "uuid": "fd9752aa-e979-4a2b-8653-2938219387ed"
       }
     ],
-    "used_designators": "#PWR1-7,BT1,U1-2,C1-2,R1-2,RV1",
+    "used_designators": "U5",
     "variants": []
   },
   "sheets": [
