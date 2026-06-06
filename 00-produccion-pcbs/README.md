@@ -8,6 +8,12 @@ hay 6 grupos de trabajo con una temática en particular, cada grupo realizó 2 e
 
 a continuación los apuntes de las distintas revisiones hechas de estos proyectos, para prepararlos para su producción física.
 
+en este repo creamos 3 carpetas:
+
+- 0-versiones-estudiantes: archivos de kicad con las versiones más recientes de proyectos de estudiantes
+- 1-versiones-profes: archivos de kicad con las versiones revisadas y realizadas por equipo docentes
+- 2-archivos-produccion: gerbers de producción, etiquetados como revA.
+
 ## grupo-01: piezos
 
 - benjaminalvarez21
@@ -23,6 +29,26 @@ a continuación los apuntes de las distintas revisiones hechas de estos proyecto
 - dayanapanitrur
 - Estrabismx
 - angel-udp
+
+### g-02-secu-01-v03
+
+en esquemático:
+
+- agregamos resistor de clock in a ground, para pulldown.
+- agregamos resistor entre 4040 Q0 patita 9 y salida
+- agregamos resistor a cada salida de jack switch.
+- cambiamos huellas de transistores a versión inline_wide para que tengan más espacio
+- agregados mounting hole faltantes
+
+en pcb:
+
+- actualizamos conectores jack a la huella de la biblioteca, para poder rutear bien los nuevos resistores y no perdernos.
+
+### g-02-secu-02
+
+en esquemático:
+
+en pcb:
 
 ## grupo-03: osciladores 1
 
