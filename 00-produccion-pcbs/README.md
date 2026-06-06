@@ -8,14 +8,51 @@ hay 6 grupos de trabajo con una temática en particular, cada grupo realizó 2 e
 
 a continuación los apuntes de las distintas revisiones hechas de estos proyectos, para prepararlos para su producción física.
 
-## grupo-01
+## grupo-01: piezos
 
-## grupo-02
+- benjaminalvarez21
+- Anaysval
+- chknngttts
+- ryukivol
+- nicolasvaldesgreve
 
-## grupo-03
+## grupo-02: secuenciadores
 
-## grupo-04
+- isidoraalvarez
+- tomascatri
+- dayanapanitrur
+- Estrabismx
+- angel-udp
 
-## grupo-05
+## grupo-03: osciladores 1
 
-## grupo-06
+- vanessagarciaM
+- antoloch
+- ccarlabelenn
+- arielorozco024
+- Narelyriquelme
+
+## grupo-04: osciladores 2
+
+- antokiaraa
+- santiagocifuvelez
+- paulafuentesm
+- kristelagj
+- catalinaoyanedel
+- yairaruiz
+
+## grupo-05: filtros
+
+- antoniaamc
+- Catabalboa
+- sebastianguevaralarotta
+- CatalinaJeria
+- Luisaatoro9
+
+## grupo-06: percusiones
+
+- terroiblea
+- martinaechavarria-stack
+- Nicolas-Miranda1312
+- paredesvania
+- Coff4

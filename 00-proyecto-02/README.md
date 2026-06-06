@@ -49,8 +49,6 @@ VERSION - valores posibles son desde "v01", "v02" hasta la última que hagan. es
 
 Con esto, dentro de cada carpeta, los archivos tendrán estos mismos nombres, pero con extensiones .sch, .pcb, .kicad_pro, de hecho solamente queremos esos 3.
 
-## grupos
-
 ## grupos de trabajo
 
 este proyecto lo desarrollamos en grupos, haciéndose cargo de distintos módulos de un sintetizador sonoro.
@@ -79,7 +77,7 @@ este proyecto lo desarrollamos en grupos, haciéndose cargo de distintos módulo
 - arielorozco024
 - Narelyriquelme
 
-## grupo-04: osciladores 2
+### grupo-04: osciladores 2
 
 - antokiaraa
 - santiagocifuvelez
