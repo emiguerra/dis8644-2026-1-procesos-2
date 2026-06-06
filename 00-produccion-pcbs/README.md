@@ -74,6 +74,19 @@ en pcb:
 - arielorozco024
 - Narelyriquelme
 
+### g-03-osc-01-rev-a
+
+- C1 estaba rotado, fue corregido.
+- audio jack de entrada y salida estaban mal conectados
+- condensador de salida fue cambiado por uno no polarizado
+- renombrar C3 a 4u7
+- cambiado C1 por condensador polarizado
+- 40106 fue usado como dos chips distintos, en vez de usar varios schmitt triggers desde un mismo chip, tuvimos que hacer esos cambios
+- volvimos a rutear casi todo, ya que se bajó de 2 chips a 1
+-
+
+### g-03-osc-02-rev-a
+
 ## grupo-04: osciladores 2
 
 - antokiaraa
