@@ -24,4 +24,6 @@ Con estos cambios, el piezo logró detectar golpes incluso a varios centímetros
 
 ![foto](./imagenes/01piezo.gif)
 
-(gif compartido por Bruno y Nico hablando en dirección al piezo)
+![foto](./imagenes/voz.jpg)
+
+(gif e imagen compartido por Bruno y Nico hablando en dirección al piezo)
