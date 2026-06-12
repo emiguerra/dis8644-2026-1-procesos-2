@@ -1,5 +1,5 @@
 # sesion-13b
-Viernes 12 de junio del 2026 - Lectura - Continuación Examen 
+Viernes 12 de junio del 2026 - Lectura - Continuación Proyecto 3 / Examen 
 
 # Lectura 
 ### Capítulos 3 y 4 (Evento y Poesía)
