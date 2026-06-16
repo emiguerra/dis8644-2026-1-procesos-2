@@ -83,10 +83,12 @@ Por el contrario, si decidimos encargarnos solo de luces, este grupo no nos sirv
 
 **GRUPO 05**
 
-Considero que el proyecto de este grupo nos sirve si es que decidimos irnos por el camino del audio, ya que ellos diseñaron la herramienta perfecta para moldear el sonido, un filtro activo con el chip LM324. Si elegimos meterle audio al sintetizador, conectar los ritmos de nuestro CD4040 y CD4017 a su filtro estaria muy bueno, porque nos permitiría agarrar esos ruidos o sonido secos y darles textura, controlando el "ataque y decaimiento" para que suenen espaciales, como transmisiones de radio de la NASA. De ellos descartaria sus bloques de prueba con el CD4046 y sus ideas con el CD4040/CD4017, además de su propuesta de filtro pasivo, ya que nosotros ya estamos haciendo la lógica de ritmos por nuestra cuenta y el filtro pasivo apaga mucho el volumen.
+El proyecto de este grupo nos sirve si es que decidimos irnos por el camino del audio, ya que ellos diseñaron la herramienta perfecta para moldear el sonido, un filtro activo con el chip LM324. Si elegimos meterle audio al sintetizador, conectar los ritmos de nuestro CD4040 y CD4017 a su filtro estaria muy bueno, porque nos permitiría agarrar esos ruidos o sonido secos y darles textura, controlando el "ataque y decaimiento" para que suenen espaciales, como transmisiones de radio de la NASA. De ellos descartaria sus bloques de prueba con el CD4046 y sus ideas con el CD4040/CD4017, además de su propuesta de filtro pasivo, ya que nosotros ya estamos haciendo la lógica de ritmos por nuestra cuenta y el filtro pasivo apaga mucho el volumen.
 
 **GRUPO 06**
 
 El Circuito 1 (Lub-dub) es ideal para transformar nuestro secuenciador en una caja de ritmos, ya que sus filtros convierten los pulsos en golpes secos de batería. Si preferimos algo más ruidoso y experimental, el Circuito 2 (Barry Benson) nos sirve para usar nuestros chips como interruptores de su zumbido caótico. Sacaria los potenciómetros de tiempo, ya que nosotras controlariamos el ritmo.
 
 **Elegiria los circuitos 05 y 06**
+
+O sea nos quedaria el circuito del cd4040 y el cd 4017 y los circuitos del grupo 05 y 06
