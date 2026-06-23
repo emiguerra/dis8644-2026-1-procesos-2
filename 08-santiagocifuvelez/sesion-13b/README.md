@@ -11,6 +11,12 @@ Hola profe Misa, Aarón y Emi. Espero que la estén pasando bien en el momento q
 
 ## 1.	Hablamos sobre las partituras  
 
+En el comienzo de clase, se empezó hablando sobre las partituras y entendimos que no existe una única forma de hacer música, comunicarla y entenderla. Las partituras funcionan como una representación visual que permite comunicar ideas musicales mediante distintos símbolos (como lo son las partituras). Gracias a ellas, para nosotros es posible identificar aspectos como los sonidos, que duración queremos que tenga, la velocidad y la intensidad.
+
+Y fue aquí donde vivos algunos ejemplos de partituras experimentales, como esta de John Cage:
+
+![partitura](./imagenes/partitura-experimental.jpg)
+
 ---
 
 ## 2.	Ajustes, avances y puntos clave para la entrega del proyecto 3 (partituras).  
